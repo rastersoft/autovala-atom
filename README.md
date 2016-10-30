@@ -9,3 +9,7 @@ Autovala can be obtained from the GIT repository, at
 or from the author's homepage:
 
 	http://www.rastersoft.com
+
+# Using autovala-atom
+
+![capture](capture.png)
