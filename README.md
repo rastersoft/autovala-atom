@@ -16,4 +16,6 @@ or from the author's homepage:
 
 Autovala-atom adds an extra left panel, which is shown only when a .vala file that belongs to an Autovala project is being edited. It also changes the path in the project view to make it point to the Autovala project to which the file belongs. Changing to a different .vala file refreshes both panels, so you don't need to add the Autovala projects to the project manager: just opening any file from an Autovala project will switch the content in both panels.
 
+To install it, just run "apm install autovala-atom" from outside this folder.
+
 After installing the package, you should run "apm install" from a command line to install the extra modules like "atom-space-pen-views".
